@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title level="m" type="main">Egyptian Gazette</title>
-                <title level="m" type="sub">Alexandria General Produce Association template</title>
+                <title level="m" type="sub">Alexandria General Produce Association template 2</title>
                 <principal>Will Hanley</principal>
             </titleStmt>
             <editionStmt>
@@ -28,13 +28,13 @@
     </teiHeader>
     <text>
         <body>
-            <div type="section" xml:lang="fr" xml:id="deg-el-agpa01">
+            <div type="section" xml:lang="fr" xml:id="alexandria-general-produce-weekly">
                 <head>ALEXANDRIA GENERAL PRODUCE ASSOCIATION</head>
                 <head>BULLETIN HEBDOMADAIRE</head>
                 <p>No. <measure>1,031</measure></p>
                 <p>Alexandrie, VENDREDI à Midi <date when="1905-07-14">le 14 Juillet
                         1905</date></p>
-                <table xml:id="deg-ta-agpa01">
+                <table xml:id="deg-ta-agpa02">
                     <row role="label">
                         <cell cols="11">COTON</cell>
                     </row>
