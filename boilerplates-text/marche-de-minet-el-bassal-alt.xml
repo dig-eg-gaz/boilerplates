@@ -65,7 +65,7 @@
                 </table>
                 <p>Etat du marché de ce jour, cotons : Ferme</p>
                 <p>Les arrivages de ce jour se chiffrent par cantars <measure unit="cantar"
-                        >1011</measure> contre même jour l’année précédente cantars <measure
+                        >1011</measure> contre même jour l'année précédente cantars <measure
                         unit="cantar">156</measure>
                 </p>
                 <table xml:id="deg-ta-mmeb02">
@@ -324,7 +324,7 @@
                 <div type="item">
                     <head>ARRIVAGES</head>
                     <dateline>du <date when="1905-07-12">mercredi 12 juillet 1905</date></dateline>
-                    <p>Documents de l’ “Alexandria General Produce Association.”</p>
+                    <p>Documents de l' "Alexandria General Produce Association.”</p>
                     <table rows="9" cols="4"  xml:id="deg-ta-mmeb07">
                         <row role="label">
                             <cell/>
@@ -387,10 +387,10 @@
                         </row>
                     </table>
                     <p><hi rend="italic">Cotons</hi>.-Total des arrivages depuis le <date
-                            when="1904-09-01">1er septembre 1904</date> jusqu’à ce jour, cantars
+                            when="1904-09-01">1er septembre 1904</date> jusqu'à ce jour, cantars
                             <measure unit="cantar">6,209,388</measure>.</p>
                     <p><hi rend="italic">Grains de coton</hi>.—Total des arrivages depuis le <date
-                            when="1904-09-01">1er septembre 1904</date> jusqu’à ce jour, Ard.
+                            when="1904-09-01">1er septembre 1904</date> jusqu'à ce jour, Ard.
                             <measure unit="ard">3,503,332</measure></p>
                     <p>Contre même jour en 1904 :</p>
                     <table rows="9" cols="2" xml:id="deg-ta-mmeb08">
@@ -445,10 +445,10 @@
                         </row>
                     </table>
                     <p><hi rend="italic">Cotons</hi>.—Total des arrivages depuis le <date
-                            when="1903-09-01">1er septembre 1903</date> jusqu’à ce jour, cantars
+                            when="1903-09-01">1er septembre 1903</date> jusqu'à ce jour, cantars
                             <measure unit="cantar">6,458,818</measure></p>
                     <p><hi rend="italic">Graines de coton</hi>.—Total des arrivages depuis le <date
-                            when="1903-09-01">1er septembre 1903</date> jusqu’à ce jour Ard.
+                            when="1903-09-01">1er septembre 1903</date> jusqu'à ce jour Ard.
                             <measure unit="ard">3,533,437</measure></p>
                 </div>
                 <div type="item">

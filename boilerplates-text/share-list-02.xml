@@ -31,8 +31,8 @@
         <body>
             <div type="item" xml:id="deg-el-shli02">
                     <head>SHARE LIST</head>
-                    <p>Issued by the “Association des Courtiers en Valeurs d'Alexandrie”.</p>
-                    <p>Clôture d’aujourd'hui à 12h.30 p.m.</p>
+                    <p>Issued by the "Association des Courtiers en Valeurs d'Alexandrie”.</p>
+                    <p>Clôture d'aujourd'hui à 12h.30 p.m.</p>
                     <table rows="56" cols="5" xml:id="deg-ta-shli02">
                         <row>
                             <cell>Agric. Bank of Egypt</cell>
@@ -68,7 +68,7 @@
                             <cell><measure unit="£">— 15/16</measure></cell>
                         </row>
                         <row>
-                            <cell>Tram. d’Alexandrie</cell>
+                            <cell>Tram. d'Alexandrie</cell>
                             <cell>Fcs.</cell>
                             <cell><measure unit="fcs">193 1/2</measure></cell>
                             <cell>"</cell>
@@ -138,7 +138,7 @@
                             <cell><measure unit="£"> — —</measure></cell>
                         </row>
                         <row>
-                            <cell>Bière d’Alex. Priv.</cell>
+                            <cell>Bière d'Alex. Priv.</cell>
                             <cell>Fcs.</cell>
                             <cell><measure unit="fcs">197 —</measure></cell>
                             <cell>"</cell>
@@ -249,7 +249,7 @@
                             <cell><measure unit="£">— —</measure></cell>
                         </row>
                         <row>
-                            <cell>Banque d’Athènes </cell>
+                            <cell>Banque d'Athènes </cell>
                             <cell>Fcs.</cell>
                             <cell><measure unit="fcs">153 —</measure></cell>
                             <cell>"</cell>
