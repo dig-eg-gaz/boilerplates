@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="section" xml:lang="fr" xml:id="alexandria-general-produce-weekly">
+            <div type="section" xml:lang="fr" colSpan="3" xml:id="alexandria-general-produce-weekly">
                 <head>ALEXANDRIA GENERAL PRODUCE ASSOCIATION</head>
                 <head>BULLETIN HEBDOMADAIRE</head>
                 <p>No. <measure>1,031</measure></p>
@@ -125,8 +125,7 @@
                             <measure unit="qantar">44113</measure>
                         </cell>
                         <cell>
-                            <measure unit="balle">718671</measure>
-                        </cell>
+                            <measure unit="balle">718671</measure> *</cell>
                     </row>
                     <row>
                         <cell>Depuis 1er Sept. 1904</cell>
