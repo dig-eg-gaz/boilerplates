@@ -33,30 +33,30 @@
                 <dateline><date when="1905-07-12">12 juillet 1905</date>.—(11h.55 a.m.)</dateline>
                 <p><hi rend="italic">Cotons</hi> —Clôture du marché du <date when="1905-07-11">11 juillet</date>: Ferme et en
                     hausse de 1/8. </p>
-                <table cols="6" xml:id="deg-ta-mmeb01">
+                <table cols="2" xml:id="deg-ta-mmeb01">
                     <row role="label">
-                        <cell cols="6">BEURRES</cell>
+                        <cell cols="2">BEURRES</cell>
                     </row>
                     <row>
                         <cell>Fair, Fully Fair, Good Fair, Fully Good Fair et Good:</cell>
                         <cell>Sans changement</cell>
                     </row>
                     <row role="label">
-                        <cell cols="6">HAUTE-EGYPTE ET FAYOUM</cell>
+                        <cell cols="2">HAUTE-EGYPTE ET FAYOUM</cell>
                     </row>
                     <row>
                         <cell>Fair, Fully Fair, Good Fair, Fully Good Fair et Good:</cell>
                         <cell>Sans changement</cell>
                     </row>
                     <row role="label">
-                        <cell cols="6">ABASSI</cell>
+                        <cell cols="2">ABASSI</cell>
                     </row>
                     <row>
                         <cell>2me qualité, 1re qualité, extra:</cell>
                         <cell>Sans changement</cell>
                     </row>
                     <row role="label">
-                        <cell cols="6">IANNOVICH</cell>
+                        <cell cols="2">IANNOVICH</cell>
                     </row>
                     <row>
                         <cell>2me qualité, 1re qualité, extra:</cell>
