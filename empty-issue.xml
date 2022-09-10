@@ -7,7 +7,7 @@
             <titleStmt>
                 <title level="m" type="main">Digital Egyptian Gazette</title>
                 <title level="m" type="sub">An encoded transcription</title>
-                <editor><!-- Enter your name--></editor>
+                <editor role="primary"><!-- Enter your name--></editor>
                 <principal>Will Hanley</principal>
             </titleStmt>
             <editionStmt>
@@ -34,7 +34,8 @@
     <text>
         <body>
             <pb n="1"/>
-            <div type="page" n="1">
+            <div type="page" n="1" 
+                facs="https://raw.githubusercontent.com/dig-eg-gaz/page-images/master/YYYY-page-images-N/YYYY-MM-DD-p1.jpg">
                 <div type="nameplate">
                     <table cols="6">
                         <row>
@@ -84,24 +85,29 @@
                 
             </div>
             <pb n="2"/>
-            <div type="page" n="2">
+            <div type="page" n="2"  
+                facs="https://raw.githubusercontent.com/dig-eg-gaz/page-images/master/YYYY-page-images-N/YYYY-MM-DD-p2.jpg">
                 <!-- page 2 contents -->
                 
             </div>
             <pb n="3"/>
-            <div type="page" n="3"> 
+            <div type="page" n="3" 
+                facs="https://raw.githubusercontent.com/dig-eg-gaz/page-images/master/YYYY-page-images-N/YYYY-MM-DD-p3.jpg"> 
             
             </div>
             <pb n="4"/>
-            <div type="page" n="4"> 
+            <div type="page" n="4" 
+                facs="https://raw.githubusercontent.com/dig-eg-gaz/page-images/master/YYYY-page-images-N/YYYY-MM-DD-p4.jpg"> 
             
             </div>
             <pb n="5"/>
-            <div type="page" n="5"> 
+            <div type="page" n="5" 
+                facs="https://raw.githubusercontent.com/dig-eg-gaz/page-images/master/YYYY-page-images-N/YYYY-MM-DD-p5.jpg"> 
             
             </div>
             <pb n="6"/>
-            <div type="page" n="6"> 
+            <div type="page" n="6" 
+                facs="https://raw.githubusercontent.com/dig-eg-gaz/page-images/master/YYYY-page-images-N/YYYY-MM-DD-p6.jpg"> 
             
             </div>
         </body>
