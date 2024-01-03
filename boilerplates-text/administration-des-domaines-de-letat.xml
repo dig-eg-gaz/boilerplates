@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">Alexandria General Produce Association cotton
+                    template</title>
+                <editor>Rainey Sharrow</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2022-09-09">September 9, 2022</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1904-12-16">December 16, 1904</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" xml:lang="fr" xml:id="deg-el-adde01">
+                <head>ADMINISTRATION DES DOMAINES DE L'ETAT</head>
+                <p>AGENCE D'ALEXANDRIE</p>
+                <table rows="10" cols="5">
+                    <head>Encheres de jeudi 15 decembre 1904 a 11h. 1/2 a.m.</head>
+                    <row role="label">
+                        <cell>Lots</cell>
+                        <cell/>
+                        <cell>Balles</cell>
+                        <cell>Cantars</cell>
+                        <cell>Prix</cell>
+                    </row>
+                    <row>
+                        <cell>183,</cell>
+                        <cell>Rowineh,</cell>
+                        <cell>11</cell>
+                        <cell>70</cell>
+                        <cell>13 7/8</cell>
+                    </row>
+                    <row>
+                        <cell>184,</cell>
+                        <cell>"</cell>
+                        <cell>35</cell>
+                        <cell>197</cell>
+                        <cell>11 3/4</cell>
+                    </row>
+                    <row>
+                        <cell>185,</cell>
+                        <cell>"</cell>
+                        <cell>68</cell>
+                        <cell>406</cell>
+                        <cell>13 7/16</cell>
+                    </row>
+                    <row>
+                        <cell>187,</cell>
+                        <cell>"</cell>
+                        <cell>77</cell>
+                        <cell>417</cell>
+                        <cell>13 ––</cell>
+                    </row>
+                    <row>
+                        <cell>189,</cell>
+                        <cell>Beshbiche,</cell>
+                        <cell>16</cell>
+                        <cell>94</cell>
+                        <cell rows="2">13 5/16</cell>
+                    </row>
+                    <row>
+                        <cell>190,</cell>
+                        <cell>"</cell>
+                        <cell>45</cell>
+                        <cell>266</cell>
+                    </row>
+                    <row>
+                        <cell>191,</cell>
+                        <cell>"</cell>
+                        <cell>104</cell>
+                        <cell>628</cell>
+                        <cell>13 5/8</cell>
+                    </row>
+                    <row>
+                        <cell>193,</cell>
+                        <cell>Doqméra,</cell>
+                        <cell>52</cell>
+                        <cell>303</cell>
+                        <cell>12 5/16</cell>
+                    </row>
+                    <row>
+                        <cell>195,</cell>
+                        <cell>Mécir,</cell>
+                        <cell>66</cell>
+                        <cell>387</cell>
+                        <cell>13 3/8</cell>
+                    </row>
+                    <row>
+                        <cell>197,</cell>
+                        <cell>Sakha,</cell>
+                        <cell>53</cell>
+                        <cell>313</cell>
+                        <cell>12 3/16</cell>
+                    </row>
+                    <row>
+                        <cell>198,</cell>
+                        <cell>"</cell>
+                        <cell>70</cell>
+                        <cell>421</cell>
+                        <cell>13 5/16</cell>
+                    </row>
+                    <row>
+                        <cell>200,</cell>
+                        <cell>Santa,</cell>
+                        <cell>22</cell>
+                        <cell>133</cell>
+                        <cell rows="2">12 5/16</cell>
+                    </row>
+                    <row>
+                        <cell>202,</cell>
+                        <cell>"</cell>
+                        <cell>19</cell>
+                        <cell>106</cell>
+                    </row>
+                    <row>
+                        <cell>207,</cell>
+                        <cell>"</cell>
+                        <cell>19</cell>
+                        <cell>108</cell>
+                        <cell rows="4">retiré</cell>
+                    </row>
+                    <row>
+                        <cell>210,</cell>
+                        <cell>"</cell>
+                        <cell>7</cell>
+                        <cell>48</cell>
+                    </row>
+                    <row>
+                        <cell>211,</cell>
+                        <cell>"</cell>
+                        <cell>1</cell>
+                        <cell>8</cell>
+                    </row>
+                    <row>
+                        <!-- unreadable from here on in the chart -->
+                        <cell>212,</cell>
+                        <cell>"</cell>
+                        <cell>1</cell>
+                        <cell>2</cell>
+                    </row>
+                    <row>
+                        <cell>215,</cell>
+                        <cell>Sakha,</cell>
+                        <cell>12</cell>
+                        <cell>74</cell>
+                        <cell rows="3">retiré</cell>
+                    </row>
+                    <row>
+                        <cell>217,</cell>
+                        <cell>Mécir,</cell>
+                        <cell>14</cell>
+                        <cell>81</cell>
+                    </row>
+                    <row>
+                        <cell>219,</cell>
+                        <cell>Doqméra,</cell>
+                        <cell>15</cell>
+                        <cell>94</cell>
+                    </row>
+                    <row>
+                        <cell>221,</cell>
+                        <cell>Rowineh,</cell>
+                        <cell>38</cell>
+                        <cell>198</cell>
+                        <cell rows="2">12 5/16</cell>
+                    </row>
+                    <row>
+                        <cell>223,</cell>
+                        <cell>Beshbiche,</cell>
+                        <cell>21</cell>
+                        <cell>149</cell>
+                    </row>
+                    <row>
+                        <cell>204,</cell>
+                        <cell>Santa,</cell>
+                        <cell>5</cell>
+                        <cell>26</cell>
+                        <cell rows="3">13 13/16</cell>
+                    </row>
+                    <row>
+                        <cell>205,</cell>
+                        <cell>"</cell>
+                        <cell>7</cell>
+                        <cell>39</cell>
+                    </row>
+                    <row>
+                        <cell>206,</cell>
+                        <cell>"</cell>
+                        <cell>17</cell>
+                        <cell>101</cell>
+                    </row>
+                    <row>
+                        <cell>218,</cell>
+                        <cell>"</cell>
+                        <cell>2</cell>
+                        <cell>10</cell>
+                        <cell>13 –</cell>
+                    </row>
+                    <row>
+                        <cell>207,</cell>
+                        <cell>"</cell>
+                        <cell>34</cell>
+                        <cell>209</cell>
+                        <cell>14 1/2</cell>
+                    </row>
+                    <row>
+                        <cell>208,</cell>
+                        <cell>"</cell>
+                        <cell>10</cell>
+                        <cell>58</cell>
+                        <cell rows="2">14 7/16</cell>
+                    </row>
+                    <row>
+                        <cell>209,</cell>
+                        <cell>"</cell>
+                        <cell>15</cell>
+                        <cell>93</cell>
+                    </row>
+                </table>
+                <p>Les 2 premiers sont de qualité afifi, 2 d'abbassi, de nuoari, les derniers de
+                    joanovich.</p>
+                <p>Les lots ont été sous adjugés a l'Anglo-Egyptian Bank Coy. Ltd.</p>
+                <p>N.B - A l'issue de l'enchère il sera procédé à la vente des deux lots de scario
+                    suivants:</p>
+                <p>ler lot Usine de Santa, balles 7 cantars 33 P.T. 105 a l'Anglo-Egyptian Bank Coy.
+                    Ltd.</p>
+                <p>2me lot Usine de Sakha, balles 32 cantars 150 P.T. 125 a l'Anglo-Egyptian Bank
+                    Coy. Ltd.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
