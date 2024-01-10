@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title level="m" type="main">Egyptian Gazette</title>
-                <title level="m" type="sub">An encoded transcription</title>
+                <title level="m" type="sub">Publishing information template</title>
                 <editor>Will Hanley</editor>
                 <principal>Will Hanley</principal>
             </titleStmt>
@@ -21,7 +21,8 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title>Publishing information template</title>
+                    <title>Egyptian Gazette</title>
+                    <date when="1906-10-03">October 3, 1906</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
