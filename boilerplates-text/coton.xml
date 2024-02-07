@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" xml:lang="fr" xml:id="deg-el-cotn01">
+            <div type="template" xml:lang="fr" xml:id="deg-el-cotn01">
                 <head>COTON</head>
                 <table cols="2" xml:id="deg-ta-cotn01">
                     <head>Exportation du mois de juin 1905</head>

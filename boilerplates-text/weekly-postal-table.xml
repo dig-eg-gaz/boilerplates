@@ -29,7 +29,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" xml:id="deg-el-wept01">
+            <div type="template" xml:id="deg-el-wept01">
                 <head>WEEKLY POSTAL TABLE.</head>
                 <head type="sub">ALEXANDRIA OFFICE.</head>
                 <p>Table showing the days of despatch and arrival of the principal Foreign Mails
