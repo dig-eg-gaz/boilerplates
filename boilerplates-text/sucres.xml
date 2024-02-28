@@ -29,7 +29,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="template" xml:lang="fr" xml:id="deg-el-sucr01">
+            <div type="template" xml:lang="fr" xml:id="deg-el-sucr01" status="templateDefault">
                     <head>SUCRES</head>
                     <table rows="3" cols="4">
                     <head>Visible Supply</head>

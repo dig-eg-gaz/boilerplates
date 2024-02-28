@@ -30,7 +30,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="page" n="7" xml:id="deg-el-vmhb02">
+            <div type="page" n="7" xml:id="deg-el-vmhb02" status="templateDefault">
                 <div type="nameplate">
                     <cols n="3"/>
                     <cb n="1"/>

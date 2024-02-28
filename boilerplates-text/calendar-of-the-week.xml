@@ -29,7 +29,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="template" xml:id="deg-el-cotw01">
+            <div type="template" xml:id="deg-el-cotw01" status="templateDefault">
                 <head>CALENDAR OF THE WEEK.</head>
                 <table cols="3" xml:id="deg-ta-cotw01">
                     <head>(Coptic and Mohamedan.)</head>

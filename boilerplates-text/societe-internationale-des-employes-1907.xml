@@ -29,7 +29,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="section" xml:lang="fr" feature="bureauPlacement">
+            <div type="section" xml:lang="fr" feature="bureauPlacement" status="templateDefault">
                 <head>Societe Internationale des Employes d'Alexandrie</head>
                 <p>Siège Social Rue Sidi el Metwalli No. 30 et Rue Hammam el Zahab No. 1 au 1er Etage</p>
                 <p><hi rend="bold">BUREAU DE PLACEMENT</hi></p>

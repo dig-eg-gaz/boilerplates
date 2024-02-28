@@ -29,7 +29,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="template" xml:id="deg-el-ssab01">
+            <div type="template" xml:id="deg-el-ssab01" status="templateDefault">
                 <head>STOCKS AND SHARES</head>
                 <p>ALEXANDRIA BOURSE</p>
                 <p><hi rend="italic">Issued by the "Association des Courtiers en Valeurs

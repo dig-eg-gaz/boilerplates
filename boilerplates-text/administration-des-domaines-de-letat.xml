@@ -30,7 +30,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="template" xml:lang="fr" xml:id="deg-el-adde01">
+            <div type="template" xml:lang="fr" xml:id="deg-el-adde01" status="templateDefault">
                 <head>ADMINISTRATION DES DOMAINES DE L'ETAT</head>
                 <p>AGENCE D'ALEXANDRIE</p>
                 <table rows="10" cols="5">

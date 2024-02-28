@@ -29,7 +29,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="section" xml:lang="fr" feature="bureauPlacement">
+            <div type="section" xml:lang="fr" feature="bureauPlacement" status="templateDefault">
                 <head>Société Internationale des Employés d'Alexandrie</head>
                 <p>Siège Social : Rue Mosquée Attarine No. 21</p>
                 <p><hi rend="bold">BUREAU DE PLACEMENT</hi></p>

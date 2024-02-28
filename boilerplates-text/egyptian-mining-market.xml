@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="template" xml:id="deg-el-egmm01">
+            <div type="template" xml:id="deg-el-egmm01" status="templateDefault">
                 <head>EGYPTIAN MINING MARKET.</head>
                 <table cols="4" xml:id="deg-ta-egmm01">
                     <row role="label">

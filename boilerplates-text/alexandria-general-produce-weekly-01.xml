@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="section" xml:lang="fr" colSpan="2" xml:id="alexandria-general-produce-weekly">
+            <div type="section" xml:lang="fr" colSpan="2" xml:id="alexandria-general-produce-weekly" status="templateDefault">
                     <head>ALEXANDRIA GENERAL PRODUCE ASSOCIATION</head>
                     <head>BULLETIN HEBDOMADAIRE</head>
                     <p>VENDREDI à Midi <date when="1905-02-24">le 24 Fevrier 1905</date></p>
