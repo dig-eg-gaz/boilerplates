@@ -65,60 +65,49 @@
                         <cell>——</cell>
                     </row>
                 </table>
-                <p>
-                    <table rows="3" cols="5">
-                        <head>Graines de Coton</head>
-                        <row>
-                            <cell>Jan.</cell>
-                            <cell>P.T.</cell>
-                            <cell>58 30/40</cell>
-                            <cell>à</cell>
-                            <cell>5x — </cell>
-                        </row>
-                        <row>
-                            <cell>Fevrier-Mars</cell>
-                            <cell>"</cell>
-                            <cell>54 20/40</cell>
-                            <cell>"</cell>
-                            <cell>— 25/40</cell>
-                        </row>
-                        <row>
-                            <cell>Mai</cell>
-                            <cell>"</cell>
-                            <cell>55 20/40</cell>
-                            <cell>"</cell>
-                            <cell>— 25/40</cell>
-                        </row>
-                    </table>
-                </p>
-                <p>
-                    <table rows="2" cols="5">
-                        <head>Feves Saidi</head>
-                        <row>
-                            <cell>Jan.</cell>
-                            <cell>P.T.</cell>
-                            <cell>72 30/40</cell>
-                            <cell>à</cell>
-                            <cell>78 — </cell>
-                        </row>
-                        <row>
-                            <cell>Fevrier-Mars</cell>
-                            <cell>"</cell>
-                            <cell>78 10/40</cell>
-                            <cell>"</cell>
-                            <cell>74 —</cell>
-                        </row>
-                    </table>
-                </p>
+                <table rows="3" cols="5">
+                    <head>Graines de Coton</head>
+                    <row>
+                        <cell>Jan.</cell>
+                        <cell>P.T.</cell>
+                        <cell>58 30/40</cell>
+                        <cell>à</cell>
+                        <cell>— /40 </cell>
+                    </row>
+                    <row>
+                        <cell>Fevrier-Mars</cell>
+                        <cell>"</cell>
+                        <cell>54 20/40</cell>
+                        <cell>"</cell>
+                        <cell>— 25/40</cell>
+                    </row>
+                    <row>
+                        <cell>Mai</cell>
+                        <cell>"</cell>
+                        <cell>55 20/40</cell>
+                        <cell>"</cell>
+                        <cell>— 25/40</cell>
+                    </row>
+                </table>
+                <table rows="2" cols="5">
+                    <head>Feves Saidi</head>
+                    <row>
+                        <cell>Jan.</cell>
+                        <cell>P.T.</cell>
+                        <cell>72 30/40</cell>
+                        <cell>à</cell>
+                        <cell>78 — </cell>
+                    </row>
+                    <row>
+                        <cell>Fevrier-Mars</cell>
+                        <cell>"</cell>
+                        <cell>78 10/40</cell>
+                        <cell>"</cell>
+                        <cell>74 —</cell>
+                    </row>
+                </table>
                 <p>REMARQUES</p>
-                <p>COTON-Nouvelle recolte: Demandee, mais addaires restreintes, faute de vendeurs.
-                    Cours tres fermes.</p>
-                <p>Recolte nxxmelle: Eu commerve a achere dans l'aores-midi et cela a contribue a
-                    raffermir les cours. En cloture nous acons au une legere reaction, mais quand
-                    meme nous resions en benefice de 7/82 sur la coture de 1 heure.</p>
-                <p>Dans la matinee prix plus haus pour mars talarie 12 3.32 a -/-; plus bas pour
-                    mars 12 1/16 a -/-. Dans l'apres-midi prix plus haus pour mars 12 3 8 a -/-;
-                    plus has pour mars 12 7/32 a -/-.</p>
+                <!-- fill with OCR -->
             </div>
         </body>
     </text>
